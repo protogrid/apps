@@ -1,0 +1,26 @@
+name: Protogrid
+description: 'The new cloud platform for business applications and information systems.'
+website: 'https://www.protogrid.com'
+category: Business
+keywords:
+    - Multilanguage
+    - RAD
+    - Productivity
+    - 'Low Code'
+    - Mobile
+locales:
+    - en-GB
+    - en-US
+    - de-DE
+    - de-CH
+    - es-es
+youtube_video_url: 'https://youtu.be/OnBk7kkORx4'
+screenshots:
+    -
+        imageUrl: 'https://dashboard.snapcraft.io/site_media/appmedia/2018/04/Bild_Protogrid_LinkedIn.png'
+    -
+        imageUrl: 'https://dashboard.snapcraft.io/site_media/appmedia/2018/06/Protogrid_Form_Desktop.png'
+    -
+        imageUrl: 'https://dashboard.snapcraft.io/site_media/appmedia/2018/06/Protogrid_Form_iPhone_Portrait.png'
+    -
+        imageUrl: 'https://dashboard.snapcraft.io/site_media/appmedia/2018/06/Protogrid_Screenshot_Simple_Form_Desktop.png'
